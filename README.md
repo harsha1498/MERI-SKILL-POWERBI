@@ -30,7 +30,7 @@ This project is a **comprehensive Sales Analysis Dashboard** built using **Power
 
 
 
-![Screenshot 2025-02-26 162314](https://github.com/user-attachments/assets/ccd641f1-03de-4bd6-93e0-02ec8fd8e8c7)
+![Screenshot 2025-02-26 162024](https://github.com/user-attachments/assets/6fce5e9a-1f0c-4f07-b561-cdb89f5f1f00)
 
 
 
@@ -68,7 +68,7 @@ This project is a **comprehensive Sales Analysis Dashboard** built using **Power
 
 
 
-![Screenshot 2025-02-26 162024](https://github.com/user-attachments/assets/e7ef562b-cb42-4224-9681-32de6a17daef)
+![Screenshot 2025-02-26 162314](https://github.com/user-attachments/assets/7f5764fb-2a2b-4a8b-a2ac-127f3e88728c)
 
 
 
